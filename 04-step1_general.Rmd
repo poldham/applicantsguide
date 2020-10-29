@@ -1,0 +1,10 @@
+# General
+
+_Status: Working Draft_
+
+This section of the application form helps the system to determine what permits you will need for your proposed project. This is based on the answer to simple yes/no questions.
+
+An answer is required to each question in order to work out which permits you are likely to need.
+
+In a small number of cases you may need a specialised permit that is not included in the online system. You can find these and links to the forms in the *Other Permits* [ADD LINKS] section of the guide. A link is also provided in the system itself.
+

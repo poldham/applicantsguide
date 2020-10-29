@@ -1,0 +1,46 @@
+# Documents
+
+_Status: Working Draft_
+
+Documents You Will Need {-}
+
+_Status: Working Draft_
+
+You will need the following documents:
+
+__For Registration__
+
+## A copy of your passport {-#a-copy-of-your-passport}
+
+This should be your current passport and be in pdf format. Needed at Registration.
+
+## Passport size photo {-#passport-size-photo} 
+
+Bahamas/US standard. Minimum 600 pixels by 600 pixels, maximum 1200 by 1200 pixels. The image must be in colour (24 bits per pixel) in sRGB colour space. jpeg or png format
+
+__For Step 3__
+
+## Authorization letter {-#authorization-letter} 
+
+__An authorization letter from your home organization__. A short letter signed by your host institution authorizing you to apply to conduct research in the Bahamas.
+
+
+## Research Proposal with Budget {-#researdch-proposal-with-budget} 
+
+- __A copy of your research proposal and budget__ as submitted or approved by the funding agency. This must include the budget as submitted or approved. It should also include details of any partner organisations (e.g. who form part of a consortium).
+
+## Resume {-#resume} 
+
+- __Resume (Curriculum Vitae)__
+
+Your CV. If you are leading a research team provide only your own CV. Research team members will each be invited to register with the system and provide copies of their CVs.
+
+## Data Management Plan {-#data-management-plan} 
+
+__Your Data Management Plan__. This should include information on arrangements for the storage of specimens or samples that you propose to collect in the Bahamas and related data, including genetic sequence data. 
+<!---- If you are importing or exporting any specimens you will require a permit from the Animal Import Section of the Department of Agriculture this needs to be clarified--->
+
+## CITES Certificate (if applicable) {-#cites_certificate} 
+- __CITES Certificate (if applicable)__. If you are intending to transport material or specimens covered by CITES through the Bahamas you will need to provide the original CITES permit from the country of origin. 
+
+If you are intending to export CITES material collected in the Bahamas during your research you will be required to obtain a CITES certificate. This process is covered inside the permit system.

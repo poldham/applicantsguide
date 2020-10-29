@@ -1,5 +1,8 @@
-methods
-applications
-example-one
-example-two
-final-words
+general
+project-information
+you-are-applying-as
+institution-details
+principal-researcher-details
+research-project-details
+equipment
+documents
