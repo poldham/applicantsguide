@@ -8,3 +8,5 @@ equipment
 documents
 marine-research
 location
+benefit-sharing
+institutional-permits
