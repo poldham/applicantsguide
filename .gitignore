@@ -1,7 +1,4 @@
-_book/
-_bookdown_files/
-libs/
-**/*.bib
+.DS_Store
 .Rproj.user
 .Rhistory
 .RData
