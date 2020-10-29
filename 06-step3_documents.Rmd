@@ -44,3 +44,10 @@ __Your Data Management Plan__. This should include information on arrangements f
 - __CITES Certificate (if applicable)__. If you are intending to transport material or specimens covered by CITES through the Bahamas you will need to provide the original CITES permit from the country of origin. 
 
 If you are intending to export CITES material collected in the Bahamas during your research you will be required to obtain a CITES certificate. This process is covered inside the permit system.
+
+## Marine Research
+
+During Step 4 (Location) you will be asked to upload documents containing:
+
+a) Precise location(s)
+b) A cruise plan

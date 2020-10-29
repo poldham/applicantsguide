@@ -6,3 +6,5 @@ principal-researcher-details
 research-project-details
 equipment
 documents
+marine-research
+location
