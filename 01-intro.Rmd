@@ -1,21 +1,7 @@
-# Introduction {#intro}
+# Introduction {-}
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+_Status: Working Draft_
 
-Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
+The Bahamas Research and Access and Benefit-Sharing Permit System provides a one stop shop to obtain all the main permits to conduct research involving biodiversity and genetic resources. We also provide information on specialist permits that you may require.
 
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
-
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
-
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
-
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+The system is designed to make it easy to apply for all the major permits that may be associated with a research project. At the same time, the system addresses access to genetic resources and benefit-sharing under the [Nagoya Protocol](https://www.cbd.int/abs/) of the [United Nations Convention on Biological Diversity](https://www.cbd.int/). This involves a requirement for an agreement to between your home institution and the government of the Bahamas.
