@@ -1,0 +1,32 @@
+# Documents
+
+During this stage you will need the following documents:
+
+- **Identification Document or Passport**
+- **Your CV**
+- **Your Institution Legal Registration Document**
+- **Research Proposal**
+- **Data Management Plan**
+- **Questionnaire Sample (where applicable)**
+
+![The document upload step appears like so. All documents must be in pdf format. You can upload documents stored locally by clicking the 'Browse' button. A green tick indicates the documents have been successfully uploaded. If you return to this step from a later stage of the application, the name of the file may not show, but if the green tick is still there, this indicates that the document has been successfully uploaded. You can replace the documents you have uploaded at any time before you submit your application.](images/documents.png)
+## Resume
+
+- __Resume (Curriculum Vitae)__ Your current CV. If you are leading a research team, provide only your own CV. You must also ensure you have included the contact details of your research team in step 2 - General Information. Research team members will each be invited to register with the system and to provide copies of their CVs by email.
+
+## Research Proposal with Budget
+
+- __A copy of your research proposal and budget__ This must include the budget as submitted or approved by the funding agency. It should also include details of any partner organisations (e.g. all members of a consortium involved in the research).
+
+## Data Management Plan
+
+- __Your Data Management Plan__. Before conducting your research you must plan how you will collect and store your data safely. This should include information on arrangements for the storage of specimens or samples that you propose to collect in the Bahamas and related data. This includes genetic sequence data (also known as digital sequence information). This also refers to matters of confidentiality for research projects involving interviews.
+
+If you are unfamiliar with Data Management Planning the template for EU Horizon 2020 projects provides a useful guide and can be downloaded as a word document [here](https://ec.europa.eu/research/participants/data/ref/h2020/gm/reporting/h2020-tpl-oa-data-mgt-plan_en.docx). For US based researchers the National Science Foundation provides guidance on Data Management Planning in different subject areas. See the latest Directorate Wide Guidance for your subject area on the NSF website at [https://www.nsf.gov/bfa/dias/policy/dmp.jsp](https://www.nsf.gov/bfa/dias/policy/dmp.jsp).
+
+All applicants are required to provide a data management plan. 
+
+## Questionnaire Samples
+
+If you will be conducting surveys or interviews as part of your research (e.g. with community members, fishermen etc.) please provide samples of the proposed questionnaires. 
+

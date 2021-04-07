@@ -1,27 +1,23 @@
 --- 
 title: "Bahamas Guide for Applicants for Research and ABS Permits"
 author: ""
-date: "`r Sys.Date()`"
+date: "16-02-2021"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Working Draft of the Guide for Applicants for the Bahamas Research and Access and Benefit-Sharing Permit System."
+description: "Guide for Applicants for the Bahamas Research and Access and Benefit-Sharing Permit System."
 ---
 
 # Welcome {-}
 
-_Status: Working Draft_
-
-Welcome to the Bahamas Research Permit and ABS (access and benefit-sharing) system guide for applicants.
+Welcome to the Bahamas Research Permit and Access and Benefit Sharing (ABS) System guide for applicants.
 
 This guide has been prepared as a practical guide to assist you through each step of the online research permit and ABS system. The guide will take you through:
 
 - Documents you need to provide
 - Each step in the online system
 - Expectations about project impact and benefit-sharing under the Nagoya Protocol
-- Additional specialist permits that may be required in some cases.
-- Information for research involving vessels
 
 This is a practical guide to applying for a research permit in the Bahamas through its online system. It is not a guide to the laws and regulations of the Bahamas. Applicants seeking clarification on legal issues are advised to contact the appropriate authorities in the Bahamas and to seek appropriate specialist legal advice.  

@@ -1,0 +1,8 @@
+# Review
+
+In the review stage you can review your answers for Steps 1-8 and a draft ABS Contract (also known as Mutually Agreed Terms). You can also download your pre-filled submission in the form of a pdf.
+
+![Step 9: Review](images/review.png)
+![In the review stage, you can review all of your answers throughout the application form from Step 1 to Step 8. This is your opportunity to ensure that you have answered all questions correctly. This is important as you may not be able to correct mistakes after submitting your application form. To edit the form go back to the relevant step, make the edit and Save and Continue. The change will apppear in the review step](images/review_application_form.png)
+
+![In this stage you will also be able to see a draft ABS contract (Mutually Assured Terms) contract. This will be sent to the legal officer listed in the application at the time of submission as the basis for a contract. Please read the document to understand the nature of the obligations that you and your institution will be entering into](images/review_mat.png)

@@ -1,0 +1,9 @@
+# Export
+
+This step is only necessary for applicants who will be exporting biological/genetic material from the Bahamas. It is triggered when applicants answer 'Yes' to the question 'Will you be exporting Biological Material/Genetic Resources From The Bahamas?' in Step 1. If applicants select 'No', this step in the application form will be inactive.  When the applicants select ‘Yes’ to the initial question, the following question will be asked: ‘Where applicable select the relevant marine organism export permit’. This question relates to the species for which specialist permits are required, these are: 
+
+- Permit to export marine mammals
+- Shark Export Permit
+- Turtle Export Permit
+
+The questions that appear in this section will relate to whichever permit was selected. Please note, that to export CITES listed species, a CITES permit is required. Upon export of any other species from the Bahamas, an export permit will need to be obtained before departure.

@@ -1,0 +1,9 @@
+# Payment
+
+There is an annual fee of $1,500 US per institution to use the The Bahamas Research and Access and Benefit-Sharing Permit System. This is a registration fee and not an application fee. Almost every permit the applicant requires will also have an attendant permit fee. You will receive emails notifying you of any application fees which need to be paid. You can also view all invoices in the 'Invoices' section of your home page.
+
+You can pay the registration fee through the system.  By clicking 'Accept and Invoice' you will be shown the amount to be invoiced. Clicking 'Pay Now' you can pay via Bank Transfer, Credit Card, Paypal. If you have already paid, there is a facility to attach a pdf of evidence of payment (such as a bank deposit slip or credit card payment information)
+
+![In this step the system displays the invoice description, charges and the currency.](images/payment1.png)
+![When the applicant clicks on Accept and invoice, the window below will be displayed. The system will automatically generate an invoice for the specific application, with an invoice number.](images/payment2.png)
+![The system offers the capacity to pay invoices via Bank Transfer, Card Payment, Paypal or to attach an invoice if they have already paid. Please note that at the time of writing only the Bank Transfer is operational with the other options expected to come on stream in the near future](images/payment3.png)
