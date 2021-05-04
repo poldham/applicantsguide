@@ -1,7 +1,7 @@
 --- 
 title: "Bahamas Guide for Applicants for Research and ABS Permits"
 author: ""
-date: "16-02-2021"
+date: "04-05-2021"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -20,4 +20,4 @@ This guide has been prepared as a practical guide to assist you through each ste
 - Each step in the online system
 - Expectations about project impact and benefit-sharing under the Nagoya Protocol
 
-This is a practical guide to applying for a research permit in the Bahamas through its online system. It is not a guide to the laws and regulations of the Bahamas. Applicants seeking clarification on legal issues are advised to contact the appropriate authorities in the Bahamas and to seek appropriate specialist legal advice.  
+This is a practical guide to applying for a research permit in the Bahamas through its online system. The guide will be periodically revised and updated. __In all cases guidance from the government authorities in the Bahamas is authoritative over the contents of this guide__. This guide is also not a guide to the laws and regulations of the Bahamas. Applicants seeking clarification on legal issues are advised to contact the appropriate authorities in the Bahamas and to seek appropriate specialist legal advice.  

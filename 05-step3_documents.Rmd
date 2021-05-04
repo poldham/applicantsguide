@@ -10,6 +10,7 @@ During this stage you will need the following documents:
 - **Questionnaire Sample (where applicable)**
 
 ![The document upload step appears like so. All documents must be in pdf format. You can upload documents stored locally by clicking the 'Browse' button. A green tick indicates the documents have been successfully uploaded. If you return to this step from a later stage of the application, the name of the file may not show, but if the green tick is still there, this indicates that the document has been successfully uploaded. You can replace the documents you have uploaded at any time before you submit your application.](images/documents.png)
+
 ## Resume
 
 - __Resume (Curriculum Vitae)__ Your current CV. If you are leading a research team, provide only your own CV. You must also ensure you have included the contact details of your research team in step 2 - General Information. Research team members will each be invited to register with the system and to provide copies of their CVs by email.

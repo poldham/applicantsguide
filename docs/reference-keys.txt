@@ -22,6 +22,7 @@ research-team-details
 research-project-details
 equipment
 documents
+resume
 research-proposal-with-budget
 data-management-plan
 questionnaire-samples
