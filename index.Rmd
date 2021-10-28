@@ -1,20 +1,20 @@
 --- 
-title: "Bahamas Guide for Applicants for Research and ABS Permits"
+title: "Bahamas Guide for Applicants for Research and Permitting System"
 author: ""
-date: "04-05-2021"
+date: "Last revised on `r format(Sys.Date(), '%d %B, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Guide for Applicants for the Bahamas Research and Access and Benefit-Sharing Permit System."
+description: "Guide for Applicants for the Bahamas Research and Permitting System."
 ---
 
 # Welcome {-}
 
-Welcome to the Bahamas Research Permit and Access and Benefit Sharing (ABS) System guide for applicants.
+Welcome to the Bahamas Research and Permitting System Guide for Applicants.
 
-This guide has been prepared as a practical guide to assist you through each step of the online research permit and ABS system. The guide will take you through:
+This guide has been prepared as a practical guide to assist you through each step of the online research permit process. The guide will take you through:
 
 - Documents you need to provide
 - Each step in the online system
