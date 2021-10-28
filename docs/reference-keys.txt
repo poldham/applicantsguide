@@ -30,6 +30,7 @@ questionnaire-samples
 data-management-plan
 cruise-plan
 location
+adding-locations
 ex-situ-collections
 land-based-stations
 benefit-sharing

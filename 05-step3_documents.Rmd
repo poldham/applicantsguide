@@ -15,9 +15,17 @@ During this stage you will need the following documents:
 
 - __Resume (Curriculum Vitae)__ Your current CV. If you are leading a research team, provide only your own CV. You must also ensure you have included the contact details of your research team in step 2 - General Information. Research team members will each be invited to register with the system and to provide copies of their CVs by email.
 
+## Institution Legal Registration Document 
+
+- The legal registration document your organisation. This may be a certificate issued by a government body (e.g Companies House or equivalent) or other legal document (e.g. Royal Charter in the case of some Universities).
+
 ## Research Proposal with Budget
 
 - __A copy of your research proposal and budget__ This must include the budget as submitted or approved by the funding agency. It should also include details of any partner organisations (e.g. all members of a consortium involved in the research).
+
+## Questionnaire Samples
+
+If you will be conducting surveys or interviews as part of your research (e.g. with community members, fishermen etc.) please provide samples of the proposed questionnaires. 
 
 ## Data Management Plan
 
@@ -27,7 +35,9 @@ If you are unfamiliar with Data Management Planning the template for EU Horizon 
 
 All applicants are required to provide a data management plan. 
 
-## Questionnaire Samples
+## Cruise Plan
 
-If you will be conducting surveys or interviews as part of your research (e.g. with community members, fishermen etc.) please provide samples of the proposed questionnaires. 
+A detailed Cruise Plan including ports of entry and exit and routes to be followed. 
+
+
 

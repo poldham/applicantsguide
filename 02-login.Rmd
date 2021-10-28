@@ -8,7 +8,7 @@ If you already have an ORCID ID please use that. Please do not create a second o
 
 If you do not have an ORCID ID you can set one up [here](https://orcid.org/). An ORCID profile is under the control of the researcher themselves and they retain the capacity to make information public or private. 
 
-ORCID ids distinguish researchers from others who might have the same or similar names. They also keep researchers connected to their work, regardless of name changes or changes to organizational affiliation. These ids link researchers and their scholarly activities - like published articles or dissertations, patents, artistic performances and datasets. The advantage of ORCID ids for researchers are that they allow information on their employment, research funding and publications to be stored in one place. In particular, the publication profile can be automatically updated through services such as Crossref. This makes it easier for us to create an electronic archive of research publications about the Bahamas and reduces the need to send emails asking for copies of publications. 
+ORCID ids distinguish researchers from others who might have the same or similar names. They also keep researchers connected to their work, regardless of name changes or changes to organizational affiliation. These ids link researchers and their scholarly activities - like published articles or dissertations, patents, artistic performances and datasets. The advantage of ORCID ids for researchers are that they allow information on their employment, research funding and publications to be stored in one place. In particular, the publication profile can be automatically updated through services such as [Crossref](https://www.crossref.org/). This makes it easier for us to create an electronic archive of research publications about the Bahamas and reduces the need to send emails asking for copies of publications. 
 
 When you have logged in for the first time using ORCID you will need to fill out a user profile.
 
@@ -24,6 +24,8 @@ To complete the registration you will need the following documents:
 
 This should be your current passport and it should be in pdf format. Your passport is required as part of the registration process and will be needed to create your account.
 <!-- does the passport need to have a set amount of time before expiry? -->
+
+__IMPORTANT: Please note that if you take a photo of your passport with your smart phone the file size will need to be reduced__ (a modern smartphone with a high resolution will produce a file of upto 80MB). Instructions on how to do this are available for Mac [here](https://support.apple.com/en-gb/guide/preview/prvw2015/mac) and for Windows 10 you will find instructions [here](https://support.microsoft.com/en-us/topic/compress-a-picture-4598c336-688b-4ade-a582-ef966a978ffd). Please note that we will not do this for you. 
 
 ### Passport Sized Photo
 
@@ -48,7 +50,9 @@ Upon successful registration with the ABS permit system, a verification code win
 
 ## Logging in
 
-Once you have registered your profile, you can log in through the Bahamas Access and Benefit Sharing System Home page. You can log in using your ORCID id.
+Once you have registered your profile, you can log in through the Bahamas Reasearch and Permitting Home page. You can log in using your ORCID id.
+
+__IMPORTANT__: If logging in with an email address ensure that you __use the same email address you used to register with ORCID__ or the system will not allow you to upload documents and complete an application. If a principal investigator has added you to the system as a support team member use the same email to register for ORCID if you do not already have an ORCID. If you already have an ORCID ask the principal investigator to edit the application to use your ORCID email address.   
 
 ## Your Home Page
 

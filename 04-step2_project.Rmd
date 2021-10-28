@@ -6,11 +6,13 @@ In this step you will provide information about your project including your rese
 
 In this section, you define what type of applicant you are. In answering this question you have the option to apply as:
 
-- A Company
-- A Consortium (a consortium is a group of public or private entities)
-- An Individual
-- A Research Institution
-- A Student
+- Researchers
+- Bahamian students (international). Citizens resident outside The Bahamas.
+- Bahamian students (local). Citizens resident in The Bahamas
+- Foreign students (graduate). 
+- Foreign students (undergraduate)
+- Research institutions (Business). Companies engaged in research. 
+- Research institutions (NGO Registered). Non-governmental organisations.
 
 The application form is the same regardless of the category of applicant. Please choose the category that most accurately reflects your status. 
 
@@ -35,6 +37,8 @@ Where an individual team member is from a different institution, their legal off
 
 Note that **all members of the research team must be named individuals** or processing of the application will be delayed for clarification.
 
+__IMPORTANT:__ A support team member is required to register with ORCID. __The email used when adding the team member and the email used for ORCID registration must match or the system will not be able to link them to the application__. Instructions are provided for the team member when they are invited to register but _we advise principal investigators to also inform team members that the email used for the system and their ORCID registration must match_.  
+
 ## Research Project Details
 
 ![Research Project Details](images/research_project_details.png)
@@ -54,3 +58,12 @@ If you have previously received a permit for research in the Bahamas please prov
 ## Equipment
 
 These questions only apply in circumstances where you are seeking to make _duty-free imports of equipment_. The term equipment does not apply to expendable supplies (food, fuels or other consumable materials etc.)
+
+
+## Filming or Videography
+
+**Do You Intend To Engage In Filming Or Videography As Part Of This Research?** Answer yes or no. Further details may be requested.
+
+If your research will involve filming activity you will need to apply for a permit from the Bahamas Film and Television Commission in addition to the permits required for your research. You can apply for that permit [here](http://www.bahamasfilm.com/Resources/procedures.htm).
+
+**Will Your Research Involve Use Of Drones?** Answer yes or no. Further details may be requested. 
